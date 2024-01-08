@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Está é uma calculadora com a interface semelhante a calculadora dos iphones. Ela realiza operações simples.
 
 ## Getting Started
 
